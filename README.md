@@ -1,30 +1,30 @@
 @@ -1,24 +1,24 @@
 <div align="center">
-    <h1>Hi there, I am <a href="https://fuhadsanin.me" target="_blank">Fuhad Sanin</a> <img
+    <h1>Hi there, I am <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan </a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
         <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>    <br/><br/>
 <p>Welcome to my Github profile !<br />
-Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertise in HTML, CSS, JavaScript, and React.js. Over the years, I've built a number of websites and web applications, and I'm always looking for new challenges to tackle. <br/>
+Hi there! My name is Mohammed Rimshan and I'm a Mern stack developer with expertise in HTML, CSS, JavaScript, and React.js. Over the years, I've built a some of websites and web applications, and I'm always looking for new challenges to tackle. <br/>
       Whether you're interested in may services, have a project you'd like to discuss, or just want to say hello, please feel free to reach out to us using the contact .
  </p>
         <div>
 <!--             <a href="https://twitter.com/fuhad500" target="_blank"><img alt="Twitter"
                     src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-            <a href="https://www.linkedin.com/in/fuhad-sanin-b469a3217/" target="_blank"><img alt="LinkedIn"
+            <a href="https://www.linkedin.com/in/mohammed-rimshan-02986a225/" target="_blank"><img alt="LinkedIn"
                     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-            <a href="mailto:fuhadsanin500@gmail.com" target="_blank"><img alt="Gmail"
+            <a href="mailto:rimshanshanu55@gmail.com" target="_blank"><img alt="Gmail"
                     src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-            <a href="https://wa.me/918547635528/" target="_blank"><img alt="Whatsapp"
+            <a href="https://wa.me/8606760567/" target="_blank"><img alt="Whatsapp"
                     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-            <a href="https://t.me/fuhadsanin"><img alt="Telegram"
+            <a href="https://t.me/rimshank"><img alt="Telegram"
                     src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
 <!--             <a href="https://t.me/fuhadsanin"><img alt="Telegram"
                     src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br> -->
                     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="">
                     <a href=""></a>
-                    <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+                    <a href="https://www.instagram.com/_rim__sha_n_/?next=%2F&hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
                     <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white®" alt=""></a><br>
                     <br> 
         </div>
@@ -35,13 +35,13 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About me</h2>
         <ul>
-                <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
+                <li> 👨🏻‍💻 I'm currently working on Mern Stack Developer 🌐</li>
                 <li> 💬 Ask me about React, Web Development</li>
                 <li> 🎓 I'm currently learning Node JS </li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
-                <a href="" target="_blank">fuhadsanin500@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://portfolio-test-fuhadsanin.vercel.app" target="_blank">My Portfolio</a></li>
+                <a href="" target="_blank">rimshanshanu55@gmail.com</a></li>
+            <li>👀 Take a look at <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
    <div align="center">
@@ -73,8 +73,8 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
 <h2 align="left"> 💻 Coding Profiles:</h2>
 <br/>
 <p align="center">
-  <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://leetcode.com/fuhadsanin500/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+ <!-- <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>--->
+  <a href="https://leetcode.com/u/MOHAMMED_RIMSHAN/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   
 </p>
 <br/>
@@ -82,8 +82,8 @@ Hi there! My name is Fuhad Sanin and I'm a front-end web developer with expertis
 </p>
 <br />
 <div align="center">
-    <p><img align-"left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuhadsanin&show_icons=true&locale=en&layout=compact" alt="fuhadsanin" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fuhadsanin&" alt="fuhadsanin" /></p>
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fuhadsanin&show_icons=true&locale=en" alt="fuhadsanin" /></p>
+    <p><img align-"left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrimshan&show_icons=true&locale=en&layout=compact" alt="mohammedrimshan" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrimshan&" alt="mohammedrimshan" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohammedrimshan&show_icons=true&locale=en" alt="mohammedrimshan" /></p>
 </div>
 </div>
