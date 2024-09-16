@@ -1,3 +1,4 @@
+
 <div align="center">
     <h1>Hi there, I am <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
@@ -31,7 +32,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently working as a MERN Stack Developer 🌐</li>
             <li> 💬 Ask me about React, Web Development</li>
-            <li> 🎓 I'm currently learning Node.js</li>
+            <li> 🎓 I'm currently learning M(ongoDB)E(xpress)R(eact)N(ode)</li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:rimshanshanu55@gmail.com" target="_blank">rimshanshanu55@gmail.com</a></li>
@@ -51,8 +52,6 @@
         <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-        <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"/>
-        <img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465"/>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -65,12 +64,13 @@
 </div>
 <br>
 <br>
-<center>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&hide_title=true&count_private=true&hide=prs">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&hide_title=true&layout=compact&count_private=true">
-<img align="center" src="https://leetcard.jacoblin.cool/MOHAMMED_RIMSHAN?theme=white&font=Lexend%20Deca&extension=activity">
-</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&hide_title=true&layout=compact&count_private=true" width="400" />
+  <img src="https://leetcard.jacoblin.cool/MOHAMMED_RIMSHAN?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
+</div>
 
-### LeetCode Stats
+
+
 
 
