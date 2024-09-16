@@ -32,9 +32,13 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently working as a MERN Stack Developer 🌐</li>
             <li> 💬 Ask me about React, Web Development</li>
-            <li> 🎓 I'm currently learning M(ongoDB)E(xpress)R(eact)N(ode)</li>
-            <li>📫 How to reach me : <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
+            <li> 🎓 I'm currently learning 
+  <img src="https://img.shields.io/badge/M-MongoDB-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/E-Express-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/R-React-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/N-Node-orange?style=flat-square" />
+</li>
+            <li>📫 How to reach me : <img align="center" src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:rimshanshanu55@gmail.com" target="_blank">rimshanshanu55@gmail.com</a></li>
             <li>👀 Take a look at <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">My Portfolio</a></li>
         </ul>
