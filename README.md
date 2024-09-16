@@ -68,7 +68,7 @@
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&hide_title=true&count_private=true&hide=prs">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&hide_title=true&layout=compact&count_private=true">
-<img src="https://leetcard.jacoblin.cool/rimshank?theme=dark&font=Lexend%20Deca&extension=activity">
+<img src="https://leetcard.jacoblin.cool/rimshank?theme=white&font=Lexend%20Deca&extension=activity">
 </center>
 
 ### LeetCode Stats
