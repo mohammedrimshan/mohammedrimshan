@@ -83,7 +83,7 @@ Hi there! My name is Mohammed Rimshan and I'm a Mern stack developer with expert
 </p>
 <br />
 <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrimshan&show_icons=true&locale=en&layout=compact" alt="mohammedrimshan" /></p>
+    <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrimshan&show_icons=true&locale=en&layout=compact" alt="mohammedrimshan" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrimshan&" alt="mohammedrimshan" /></p>
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohammedrimshan&show_icons=true&locale=en" alt="mohammedrimshan" /></p>
 </div>
