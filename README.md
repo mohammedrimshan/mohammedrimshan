@@ -66,9 +66,9 @@
 <br>
 <br>
 <center>
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&hide_title=true&count_private=true&hide=prs">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&hide_title=true&layout=compact&count_private=true">
-<img src="https://leetcard.jacoblin.cool/MOHAMMED_RIMSHAN?theme=white&font=Lexend%20Deca&extension=activity">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&hide_title=true&count_private=true&hide=prs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&hide_title=true&layout=compact&count_private=true">
+<img align="center" src="https://leetcard.jacoblin.cool/MOHAMMED_RIMSHAN?theme=white&font=Lexend%20Deca&extension=activity">
 </center>
 
 ### LeetCode Stats
