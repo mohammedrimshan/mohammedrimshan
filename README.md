@@ -63,8 +63,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC)](https://git.io/streak-stats)
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true" />
+[![GitHub Streak]]
+<img width="49%" src="https://streak-stats.demolab.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
