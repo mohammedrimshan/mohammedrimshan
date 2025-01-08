@@ -38,16 +38,6 @@
 <!-- SEASON_SUMMER_START -->
 <h3>🌞 Welcome to My Summer Showcase! 🏖️</h3>
 
-<pre align="center">
-   _____
-  /     \
- /  \ /  \
-|    X    |
- \  / \  /
-  \_____/
-    | |
-  Summer
-</pre>
 <!-- SEASON_SUMMER_END -->
 
 <!-- SEASON_AUTUMN_START -->
