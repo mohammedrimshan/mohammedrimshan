@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
     <div>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Native+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Developer" alt="Typing SVG" />
     </div>
     <img alt="Developer Pic" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
     <p align="center">
