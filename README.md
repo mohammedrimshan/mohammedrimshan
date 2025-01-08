@@ -1,15 +1,15 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="300" />
 
 ### _Transforming ideas into code, one commit at a time_ ✨
 
-<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150"></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I debug with coffee ☕
 - 🎮 When not coding: Playing chess ♟️
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
@@ -65,9 +65,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true" width="100%">
+[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -94,9 +94,9 @@
 ### ⚡ Fun Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammedRimshan&label=Profile%20views&color=38B2AC&style=flat)
-[![Years Badge](https://badges.pufler.dev/years/MohammedRimshan)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/MohammedRimshan)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/MohammedRimshan)](https://badges.pufler.dev)
+![Years](https://badges.pufler.dev/years/MohammedRimshan)
+![Repos](https://badges.pufler.dev/repos/MohammedRimshan)
+![Commits](https://badges.pufler.dev/commits/monthly/MohammedRimshan)
 
 ### _Let's create something amazing together!_ 🚀
 
