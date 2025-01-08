@@ -1,7 +1,11 @@
 <div align="center">
 
-# 👋 Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
-
+<h1>Hi there, I am <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <br/><br/>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ### *Transforming ideas into code, one commit at a time* ✨
