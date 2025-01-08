@@ -66,9 +66,7 @@
 </p>
 
 <p align="center">
-<!--   <img width="100%" src="https://streak-stats.demolab.com?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" /> -->
-  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
 </p>
 
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
