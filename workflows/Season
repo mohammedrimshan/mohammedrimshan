@@ -1,0 +1,29 @@
+name: Update Seasonal Theme
+
+on:
+  schedule:
+    - cron: '0 0 1 3,6,9,12 *'  # Runs on the 1st day of March, June, September, and December
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update README with seasonal theme
+        run: |
+          month=$(date +%-m)
+          if [ $month -ge 12 ] || [ $month -le 2 ]; then
+            sed -i 's/<h3 id="seasonal-greeting">.*<\/h3>/<h3 id="seasonal-greeting">❄️ Welcome to My Winter Wonderland! ☃️<\/h3>/' README.md
+            sed -i '/<pre id="seasonal-ascii"/,/<\/pre>/c\<pre id="seasonal-ascii" align="center">\n   __\n  /_\\ \n  \\__/\n   ||\n  /__\\\n /____\\\n  \\  /\n Winter\n</pre>' README.md
+          elif [ $month -ge 3 ] && [ $month -le 5 ]; then
+            sed -i 's/<h3 id="seasonal-greeting">.*<\/h3>/<h3 id="seasonal-greeting">🌸 Welcome to My Spring Garden! 🌷<\/h3>/' README.md
+            sed -i '/<pre id="seasonal-ascii"/,/<\/pre>/c\<pre id="seasonal-ascii" align="center">\n    _\n   (_)\n  (___)  \n  _|_|_\n (_____)  \n  \\   /\n Spring\n</pre>' README.md
+          elif [ $month -ge 6 ] && [ $month -le 8 ]; then
+            sed -i 's/<h3 id="seasonal-greeting">.*<\/h3>/<h3 id="seasonal-greeting">🌞 Welcome to My Summer Showcase! 🏖️<\/h3>/' README.md
+            sed -i '/<pre id="seasonal-ascii"/,/<\/pre>/c\<pre id="seasonal-ascii" align="center">\n   _____\n  /     \\\n /  \\ /  \\\n|    X    |\n \\  / \\  /\n  \\_____/\n    | |\n  Summer\n</pre>' README.md
+          else
+            sed -i 's/<h3 id="seasonal-greeting">.*<\/h3>/<h3 id="seasonal-greeting">🍁 Welcome to My Autumn Collection! 🍂<\/h3>/' README.md
+            sed -i '/<pre id="seasonal-ascii"/,/<\/pre>/c\<pre id="seasonal-ascii" align="center">\n     __\n    /  \\\n   /    \\\n  /      \\\n /  ____  \\\n/__/    \\__\\\n    |  |\n  Autumn\n</pre>' README.md
+          fi
