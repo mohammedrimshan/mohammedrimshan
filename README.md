@@ -51,15 +51,27 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammedRimshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammedRimshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammedRimshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Mohammed's GitHub Stats">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mohammed's Top Languages">
 </p>
 
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true" alt="Mohammed's Streak Stats">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedRimshan/MohammedRimshan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedRimshan/MohammedRimshan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohammedRimshan/MohammedRimshan/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRimshan&theme=tokyonight&hide_border=true" />
 </p>
