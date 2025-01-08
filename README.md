@@ -66,7 +66,7 @@
 </p>
 
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true" />
 
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
