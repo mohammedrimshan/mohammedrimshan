@@ -2,10 +2,71 @@
 
 # 👋 Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
 
-<!-- Seasonal Greeting (This will be updated by the GitHub Action) -->
-<h3 id="seasonal-greeting">🌞 Welcome to My Summer Showcase! 🏖️</h3>
+<!-- SEASON_WINTER_START -->
+<!--
+<h3>❄️ Welcome to My Winter Wonderland! ☃️</h3>
 
-<!-- Typing SVG -->
+<pre align="center">
+   __
+  /_\ 
+  \__/
+   ||
+  /__\
+ /____\
+  \  /
+ Winter
+</pre>
+-->
+<!-- SEASON_WINTER_END -->
+
+<!-- SEASON_SPRING_START -->
+<!--
+<h3>🌸 Welcome to My Spring Garden! 🌷</h3>
+
+<pre align="center">
+    _
+   (_)
+  (___)  
+  _|_|_
+ (_____)  
+  \   /
+ Spring
+</pre>
+-->
+<!-- SEASON_SPRING_END -->
+
+<!-- SEASON_SUMMER_START -->
+<h3>🌞 Welcome to My Summer Showcase! 🏖️</h3>
+
+<pre align="center">
+   _____
+  /     \
+ /  \ /  \
+|    X    |
+ \  / \  /
+  \_____/
+    | |
+  Summer
+</pre>
+<!-- SEASON_SUMMER_END -->
+
+<!-- SEASON_AUTUMN_START -->
+<!--
+<h3>🍁 Welcome to My Autumn Collection! 🍂</h3>
+
+<pre align="center">
+     __
+    /  \
+   /    \
+  /      \
+ /  ____  \
+/__/    \__\
+    |  |
+  Autumn
+</pre>
+-->
+<!-- SEASON_AUTUMN_END -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ### *Transforming ideas into code, one commit at a time* ✨
@@ -110,17 +171,5 @@
 </p>
 
 ### *Thank you for visiting my profile!* 💖
-
-<!-- Seasonal ASCII Art -->
-<pre id="seasonal-ascii" align="center">
-   _____
-  /     \
- /  \ /  \
-|    X    |
- \  / \  /
-  \_____/
-    | |
-  Summer
-</pre>
 
 </div>
