@@ -2,14 +2,6 @@
 
 # 👋 Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-
-<!-- SEASON_SUMMER_START -->
-<h3>🌞 Welcome to My Summer Showcase! 🏖️</h3>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" width="100" height="100" />
-<!-- SEASON_SUMMER_END -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ### *Transforming ideas into code, one commit at a time* ✨
@@ -22,16 +14,16 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently building awesome things as a **MERN Stack Developer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" alt="Seedling" width="25" height="25" /> Always exploring new technologies in the **Web Development** space
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Love solving complex problems with elegant solutions
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: Contributing to Open Source projects
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Fun fact: I debug with coffee
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" alt="Chess Pawn" width="25" height="25" /> When not coding: Playing chess
+- 🔭 Currently building awesome things as a **MERN Stack Developer**
+- 🌱 Always exploring new technologies in the **Web Development** space
+- 💡 Love solving complex problems with elegant solutions
+- 🎯 Goal: Contributing to Open Source projects
+- ⚡ Fun fact: I debug with coffee ☕
+- 🎮 When not coding: Playing chess ♟️
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +59,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact">
 </p>
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRimshan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true">
 </p>
 
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -110,11 +102,5 @@
 ### *Let's create something amazing together!* 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" height="100" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
-### *Thank you for visiting my profile!* 💖
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="50" height="50" />
-
-</div>
