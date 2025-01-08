@@ -2,6 +2,10 @@
 
 # 👋 Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
 
+<!-- Seasonal Greeting (This will be updated by the GitHub Action) -->
+<h3 id="seasonal-greeting">🌞 Welcome to My Summer Showcase! 🏖️</h3>
+
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ### *Transforming ideas into code, one commit at a time* ✨
@@ -106,6 +110,17 @@
 </p>
 
 ### *Thank you for visiting my profile!* 💖
-<p align="center">
-  <img src="https://media.giphy.com/media/l46C52vA6Pg4QO73G/giphy.gif" width="25%">
-</p>
+
+<!-- Seasonal ASCII Art -->
+<pre id="seasonal-ascii" align="center">
+   _____
+  /     \
+ /  \ /  \
+|    X    |
+ \  / \  /
+  \_____/
+    | |
+  Summer
+</pre>
+
+</div>
