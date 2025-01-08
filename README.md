@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello World, I'm [Mohammed Rimshan](https://mohammedrimshan.github.io/Portfolio-new/)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;Crafting+Digital+Experiences+%E2%9C%A8;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" /></a>
