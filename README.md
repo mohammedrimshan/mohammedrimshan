@@ -71,7 +71,7 @@
 
 <p align="center">
     <a href="https://github.com/MohammedRimshan">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&theme=tokyonight&hide_border=true" />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRimshan&show_icons=true&theme=tokyonight&hide_border=true" /><br>
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true" />
     </a>
 </p>
