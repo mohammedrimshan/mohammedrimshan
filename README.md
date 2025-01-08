@@ -16,7 +16,7 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
