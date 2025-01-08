@@ -2,20 +2,16 @@
     <h1>Hi there, I'm <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan</a> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
     </h1>
-
     <div>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Native+Developer" alt="Typing SVG" />
     </div>
-    
     <img alt="Developer Pic" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350"/>
-
     <p align="center">
         <b>Welcome to my GitHub profile!</b><br>
         I'm a passionate MERN stack developer with expertise in HTML, CSS, JavaScript, and React.js. 
         I love building web applications that make a difference and I'm always excited to learn new technologies.
         Let's create something amazing together! 🚀
     </p>
-
     <div>
         <a href="https://www.linkedin.com/in/mohammed-rimshan-02986a225/" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,7 +34,7 @@
     </div>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I'm currently working as a **MERN Stack Developer**
 - 🌱 I'm currently mastering the **MERN Stack:**
