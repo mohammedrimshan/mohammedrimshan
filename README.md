@@ -60,7 +60,7 @@
 </p>
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=MohammedRimshan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
-</p
+</p>
 
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -103,4 +103,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
+### *Thank you for visiting my profile!* 💖
+<p align="center">
+  <img src="https://media.giphy.com/media/l46C52vA6Pg4QO73G/giphy.gif" width="25%">
 </p>
