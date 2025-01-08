@@ -17,7 +17,7 @@
 
 > _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 - 🔭 Currently building awesome things as a **MERN Stack Developer**
 - 🌱 Always exploring new technologies in the **Web Development** space
@@ -65,7 +65,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRimshan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&layout=compact"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammedRimshan&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC)](https://git.io/streak-stats)
 
 [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedRimshan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
